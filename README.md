@@ -22,7 +22,7 @@
 
 ### 1.安装TAP虚拟网卡，并将该虚拟网卡改名为 `mix-tap`
 
-在`install.bat`目录下运行`install.bat`创建一个tap虚拟网卡，转到控制面板网络连接页面，将新创建出来的某个TAP-Windows Adapter V9网卡重命名为`mix-tap`
+在`tap_driver`目录下运行`install.bat`创建一个tap虚拟网卡，转到控制面板网络连接页面，将新创建出来的某个TAP-Windows Adapter V9网卡重命名为`mix-tap`
 
 ![image](https://github.com/user-attachments/assets/fc52d102-a1aa-48fc-af17-703d3e3516c7)
 
